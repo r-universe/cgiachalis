@@ -1,0 +1,10 @@
+{
+  "id": 152367981,
+  "created_at": "2026-08-09T08:27:54.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["R6.tiledb", "storr.tiledb"]
+}

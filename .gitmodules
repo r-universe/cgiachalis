@@ -5,6 +5,6 @@
 [submodule "R6.tiledb"]
 	path = R6.tiledb
 	url = https://github.com/cgiachalis/R6.tiledb
-[submodule "cransays"]
-	path = cransays
+[submodule "storr.tiledb"]
+	path = storr.tiledb
 	url = https://github.com/cgiachalis/storr.tiledb

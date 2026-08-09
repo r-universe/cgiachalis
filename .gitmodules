@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cgiachalis/cgiachalis.r-universe.dev
 	branch = HEAD
+[submodule "R6.tiledb"]
+	path = R6.tiledb
+	url = https://github.com/cgiachalis/R6.tiledb
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/cgiachalis/storr.tiledb
